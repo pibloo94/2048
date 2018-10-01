@@ -1,6 +1,8 @@
 # Game 2048
 
 ### Autores: Manuel Monforte Escobar y Pablo Agudo Brun. Universidad Complutense de Madrid.
+* Manuel [@manumonforte](https://github.com/manumonforte)
+* Pablo [@pabloagudo](https://github.com/pibloo94/)
 
 Proyecto de Tecnología de la Programación de la Universidad Complutense de Madrid (UCM).
 
